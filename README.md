@@ -48,9 +48,3 @@ Asegúrese de tener instalados los siguientes requisitos en tu equipo:
     Visita http://localhost:8000 en tu navegador.
 
 
-
-
-
-## IMG
-
-
